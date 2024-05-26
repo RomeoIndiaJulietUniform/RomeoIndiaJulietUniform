@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Namaste ! 👋</h1>
-  <h2>I'm Riju, your friendly OpenSource developer!</h2>
+  <h1><h1><i style="color:#fc58ef; font-weight: lighter;">Namaste ! 👋 </i></h1>
+  <h2><h1><i style="color:pink; font-weight: lighter;">I'm Riju, your friendly OpenSource developer!</i></h2>
   <h3>Currently working in low level C++ Programming && Full Stack Web Development</h3>
 
   <img src="./giphy (1).gif" alt="Waving Hand">

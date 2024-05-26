@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <a href="https://drive.google.com/file/d/12ELdJBisjdYBnLQRZ5jhXfYzKzYJ80uU/view?usp=drive_link" target="_blank">
+    <a href="https://drive.google.com/file/d/1NG4J7CapRP8N7b50P87w7QSTUznSWO8O/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/⏬Download_My_CV-limegreen" style="width: 200px; height: 40px;"/>
     </a>
 </div>

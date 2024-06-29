@@ -6,6 +6,9 @@
 
 ![Realtime AI Hype Graph](https://raw.githubusercontent.com/RomeoIndiaJulietUniform/AI_Hype_Graph/main/ai_hype_graph.png)
 
+
+![Realtime AI Hype Graph](https://raw.githubusercontent.com/RomeoIndiaJulietUniform/Job_Data/main/job_search_trends.png)
+
 <div align="center">
     <a href="https://drive.google.com/file/d/1pFGBLyG9foal1tOF8Bz3Mj8UaeMAbhih/view" target="_blank">
         <img src="https://img.shields.io/badge/⏬Download_My_CV-limegreen" style="width: 200px; height: 40px;"/>

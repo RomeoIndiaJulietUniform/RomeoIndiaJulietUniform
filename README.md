@@ -2,9 +2,9 @@
   <h1><h1><i style="color:#fc58ef; font-weight: lighter;">Namaste ! 👋 </i></h1>
   <h2><h1><i style="color:pink; font-weight: lighter;">I'm Riju, your friendly OpenSource developer!</i></h2>
   <h3>Currently working in low level C++ Programming && Full Stack Web Development</h3>
-
-  <img src="./giphy (1).gif" alt="Waving Hand">
 </div>
+
+![Realtime AI Hype Graph](https://raw.githubusercontent.com/RomeoIndiaJulietUniform/AI_Hype_Graph/main/ai_hype_graph.png)
 
 <div align="center">
     <a href="https://drive.google.com/file/d/1pFGBLyG9foal1tOF8Bz3Mj8UaeMAbhih/view" target="_blank">

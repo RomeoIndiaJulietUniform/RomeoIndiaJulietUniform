@@ -1,7 +1,7 @@
 <div align="center">
   <h1><h1><i style="color:#fc58ef; font-weight: lighter;">Namaste ! 👋 </i></h1>
   <h2><h1><i style="color:pink; font-weight: lighter;">I'm Riju, your friendly OpenSource developer!</i></h2>
-  <h3>Currently working in low level C++ Programming && Full Stack Web Development</h3>
+  <h3>Here are the below Automated charts to show relevant data regarding Data Science, Web Development and related Technologies. Data is refreshed every 6 hours</h3>
 </div>
 
 ![Realtime AI Hype Graph](https://raw.githubusercontent.com/RomeoIndiaJulietUniform/AI_Hype_Graph/main/ai_hype_graph.png)

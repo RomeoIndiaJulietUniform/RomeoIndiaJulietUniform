@@ -1,9 +1,10 @@
 <div align="center">
   <h1><h1><i style="color:#fc58ef; font-weight: lighter;">Namaste! I’m Riju, happy to say hello! 👋</i></h1>
 
+## Digital Badges
 [![An image of @romeoindiajulietuniform's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romeoindiajulietuniform)](https://holopin.io/@romeoindiajulietuniform)
 
-
+## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomeoIndiaJulietUniform&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>            
 
 
